@@ -10,6 +10,7 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 | Jupiter Limit Orders | Telegram Bot | Free | Limit orders and DCA on Jupiter |
 | DexScreener | Web | Free | Real-time DEX charts and pair data |
 | Birdeye | Web + Bot | Freemium | Multi-chain portfolio and signals |
+| [Clearlane Terminal](https://t.me/ClearlaneTerminalBot) | Telegram Bot | Free (0.5% fee shown before you sign) | Non-custodial Solana trading bot — trade any token, fee shown up front, never holds your wallet |
 
 ## DEX Aggregators
 
